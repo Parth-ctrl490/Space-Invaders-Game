@@ -1,0 +1,13 @@
+body {
+    font-family:'Courier New',Courier,monospace;
+    text-align: center;}
+#board {
+    background-color: rgb(16, 8, 48);
+}
+
+.background {
+    background-image: ('pexels-felixmittermeier-956981.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
